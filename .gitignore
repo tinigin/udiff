@@ -3,7 +3,7 @@
 __pycache__
 build
 dist
-unidiff.egg-info
+udiff.egg-info
 test.py
 tests/samples
 
