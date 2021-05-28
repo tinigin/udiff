@@ -1,5 +1,7 @@
 # Udiff
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1806fce1aab44f63829557a9b8af3a4e)](https://app.codacy.com/gh/tinigin/udiff?utm_source=github.com&utm_medium=referral&utm_content=tinigin/udiff&utm_campaign=Badge_Grade_Settings)
+
 **Udiff** is a simple library for parsing unified diff.
 
 ```python
